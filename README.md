@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blaize99
+- 👋 Hi, I’m Blaize Tom
 - 👀 I’m interested in Machine Learning and Web Development
 - 🌱 I’m currently learning Django and Jupiter Notebook
 - 💞️ I’m looking to collaborate on Wed development and ML works
