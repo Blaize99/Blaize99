@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Blaize Tom
-- 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning Django and Jupiter Notebook
-- 💞️ I’m looking to collaborate on Wed development and ML works
+- 👀 I’m interested in Machine Learning and Backend Development
+- 🌱 I’m currently working as a student researcher.
+- 💞️ I’m looking to collaborate on Machine Learning research and Back End development
 - 📫 Check out my Bio website for more details 
 
 <!---
